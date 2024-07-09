@@ -13,9 +13,9 @@ This project is designed to facilitate the analysis of PDF documents using a tea
 - Integration of multiple tools, including PDF search, web search, and text analysis.
 - Utilization of a GPT-3.5 language model for enhanced text processing and analysis.
 
-[output example-1](https://github.com/NonakaVal/pdf_summarizer/blob/main/articles/test-1.md) : data communication concepts
-
-[output example-2](https://github.com/NonakaVal/pdf_summarizer/blob/main/articles/test-2.md) : data communication concepts
+### Examples
+- [Data Communication Concepts 1](https://github.com/NonakaVal/pdf_summarizer/blob/main/articles/test-1.md) 
+- [Data Communication Concepts 2](https://github.com/NonakaVal/pdf_summarizer/blob/main/articles/test-2.md)
 
 ## Project Structure
 ```
