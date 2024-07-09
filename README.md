@@ -1,7 +1,6 @@
 # PDF Analysis and Agent Creation Project
 
-
-powered by [crewAI](https://crewai.com) project.
+this is a [crewAI](https://crewai.com) project.
 
 ## Overview
 This project is designed to facilitate the analysis of PDF documents using a team of specialized agents. The agents leverage various tools and an AI language model to perform tasks such as text analysis, planning, structure, source referencing, and article writing.
