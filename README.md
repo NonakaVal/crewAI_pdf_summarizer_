@@ -12,6 +12,7 @@ This project is designed to facilitate the analysis of PDF documents using a tea
 - Creation of agents with specialized roles and goals.
 - Integration of multiple tools, including PDF search, web search, and text analysis.
 - Utilization of a GPT-3.5 language model for enhanced text processing and analysis.
+
 [first pdf output example](https://github.com/NonakaVal/pdf_summarizer/blob/main/articles/test-1.md)
 [Second pdf output example](https://github.com/NonakaVal/pdf_summarizer/blob/main/articles/test-2.md)
 
