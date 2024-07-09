@@ -77,14 +77,13 @@ pdf_summarizer/
 4. The output will be saved in the `articles/`.
 
 ## CrewAI Support and Documentations 
+<a href="https://www.crewai.com/">
+    <img src="https://i.imgur.com/0FllxzQ.png" alt="Image" width="10%" style="display: block; margin: 0 auto;">
+</a>
+
 For support, questions, or feedback regarding the SelfDevelopment Crew or crewAI:
 - [documentation](https://docs.crewai.com)
 - [GitHub repository](https://github.com/joaomdmoura/crewai)
 - [Join our Discord](https://discord.com/invite/X4JWnZnxPb)
 - [Chat with our docs](https://chatg.pt/DWjSBZn)
-
-
-<a href="https://www.crewai.com/">
-    <img src="https://i.imgur.com/0FllxzQ.png" alt="Image" width="15%" style="display: block; margin: 0 auto;">
-</a>
 
