@@ -85,6 +85,6 @@ For support, questions, or feedback regarding the SelfDevelopment Crew or crewAI
 
 
 <a href="https://www.crewai.com/">
-    <img src="https://i.imgur.com/0FllxzQ.png" alt="Image" width="22%" style="display: block; margin: 0 auto;">
+    <img src="https://i.imgur.com/0FllxzQ.png" alt="Image" width="15%" style="display: block; margin: 0 auto;">
 </a>
 
