@@ -14,6 +14,7 @@ This project is designed to facilitate the analysis of PDF documents using a tea
 - Utilization of a GPT-3.5 language model for enhanced text processing and analysis.
 
 [first pdf output example](https://github.com/NonakaVal/pdf_summarizer/blob/main/articles/test-1.md)
+
 [Second pdf output example](https://github.com/NonakaVal/pdf_summarizer/blob/main/articles/test-2.md)
 
 
