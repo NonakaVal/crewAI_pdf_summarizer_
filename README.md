@@ -38,7 +38,7 @@ pdf_summarizer/
 ## Setup and Usage
 
 ### Prerequisites
-- Python 3.8 or higher
+- Python 3.10 or higher
 - [Poetry](https://python-poetry.org/) for dependency management
 - An [OpenAI](https://platform.openai.com) API key
 - A [Serper](https://serper.dev/) API key
