@@ -6,11 +6,14 @@ powered by [crewAI](https://crewai.com) project.
 ## Overview
 This project is designed to facilitate the analysis of PDF documents using a team of specialized agents. The agents leverage various tools and an AI language model to perform tasks such as text analysis, planning, structure, source referencing, and article writing.
 
+
 ## Features
 - Dynamic PDF selection from a specified folder.
 - Creation of agents with specialized roles and goals.
 - Integration of multiple tools, including PDF search, web search, and text analysis.
 - Utilization of a GPT-3.5 language model for enhanced text processing and analysis.
+- [first pdf output example](https://github.com/NonakaVal/pdf_summarizer/blob/main/articles/test-1.md)
+- [Second pdf output example](https://github.com/NonakaVal/pdf_summarizer/blob/main/articles/test-2.md)
 
 
 ## Project Structure
