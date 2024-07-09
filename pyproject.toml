@@ -2,7 +2,7 @@
 name = "pdf_summarizer"
 version = "0.1.0"
 description = "pdf_summarizer using crewAI"
-authors = ["Your Name <you@example.com>"]
+authors = ["valdenir Nonaka <nnn>"]
 
 [tool.poetry.dependencies]
 python = ">=3.10,<=3.13"
