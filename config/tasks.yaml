@@ -1,0 +1,31 @@
+analyze_text:
+  description: >
+    study the content of the pdf to extract strategic insights. The analysis should focus on identifying key themes, trends, and actionable points relevant to the study's objectives.
+  expected_output: >
+    An analysis report highlighting the key points and strategic insights extracted from the text.
+
+review_planning:
+  description: >
+    Review and refine the structure of the study plan based on the initial analysis. Ensure the plan is comprehensive, detailed, and aligned with the research goals.
+  expected_output: >
+    A structured and detailed study plan that effectively guides further research.
+
+research_sources_references:
+  description: >
+    Conduct thorough research to find relevant sources and references that will deepen the study. Validate the credibility and relevance of each source.
+  expected_output: >
+    A list of validated sources and references that support and enhance the analysis.
+
+write_complete_article:
+  description: >
+    Craft a comprehensive and well-structured article by synthesizing the analyses, strategies, and references gathered during the research phase. The article should follow this template:
+    - **summary:** bullet poits about the content.
+    - **methods:** list every method, lib and framework importants to study .
+    - **Introduction:** Provide an engaging introduction that outlines the topic, objectives, and importance of the article.
+    - **Content Explanation:** Divide the main body into sections, each explaining a key point or strategy from the research. Use subheadings for clarity. Include data, examples, and quotes where applicable.
+    - **Conclusion:** Summarize the main insights and provide final thoughts or recommendations.
+    - **References:** List all the sources and references used in the article for further reading.
+
+    The article should be coherent, logically structured, engaging for the target audience, and suitable for publication. It must encapsulate all essential points from the research.
+  expected_output: >
+    A polished and publication-ready article that thoroughly addresses the key findings, insights, and recommendations derived from the research.
